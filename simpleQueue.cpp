@@ -1,4 +1,5 @@
 #include <mutex>
+#include <memory>
 
 struct Node
 {
